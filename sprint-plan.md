@@ -10,12 +10,8 @@
 | PB4 | Display Task List | Show all tasks in a list view | Medium |
 | PB5 | Notifications | Notify users on task assignment | Low |
 
-
-
 ## 2. Sprint Goal
 To deliver a functional task management system that allows users to create, assign, view, and complete tasks within a single sprint.
-
-
 
 ## 3. Definition of Done (DoD)
 
