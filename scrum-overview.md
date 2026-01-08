@@ -8,7 +8,7 @@
 | Melkizedeck  Godwin| Product Owner | Facilitates Scrum events, removes impediments |
 | Steven Okinyi| Developer | Implements features and fixes |
 | Derick Maruma| Developer | Implements features and testing |
-|Gidion Juma|Developer|Manage Database
+|Gidion Juma|Developer|Manages Database
 
 
 
