@@ -14,10 +14,7 @@ This project simulates a 1-sprint Scrum workflow for developing a Cloud-Based Ta
 | steven Okinyi |31567/T.2023 | Developer |
 | Derick Maruma | 31503/T.2023 | Developer |
 |Gidion Juma|31262/T.2023|Developer|
+|Zubery Cosmas|30860/T.2023|Developer|
 
 
-## Scrum Duration
-- Sprint Length: 1 Week
-- Sprint Goal: Deliver core task management functionality
 
-## Repository Structure
