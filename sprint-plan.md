@@ -9,6 +9,7 @@
 | PB3 | Mark Task Complete | Update task status to completed | Medium |
 | PB4 | Display Task List | Show all tasks in a list view | Medium |
 | PB5 | Notifications | Notify users on task assignment | Low |
+| PB6 | Developer | Add sprint planning content | Medium |
 |PB6 | Developer | Add sprint planning content | Medium |
 
 ## 2. Sprint Goal
