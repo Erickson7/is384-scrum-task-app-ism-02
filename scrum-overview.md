@@ -11,6 +11,7 @@ THIS IS MELKIZEDECK (A PRODUCT OWNER), Everyone has to be puncture in order to a
 | Steven Okinyi| Developer | Implements features and fixes |
 | Derick Maruma| Developer | Implements features and testing |
 |Gidion Juma|Developer|Manages Database
+|Zubery Cosmas|Developer|Database Designer
 
 
 
