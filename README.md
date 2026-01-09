@@ -16,8 +16,4 @@ This project simulates a 1-sprint Scrum workflow for developing a Cloud-Based Ta
 |Gidion Juma|31262/T.2023|Developer|
 
 
-## Scrum Duration
-- Sprint Length: 1 Week
-- Sprint Goal: Deliver core task management functionality
 
-## Repository Structure
